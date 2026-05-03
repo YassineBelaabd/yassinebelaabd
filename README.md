@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bonjour, je suis Yassine 👋
 
-<!--
-**YassineBelaabd/yassinebelaabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je construis des prototypes simples autour de l'automatisation de tâches répétitives, notamment l'extraction de données depuis des documents, images, PDF ou fichiers structurés.
 
-Here are some ideas to get you started:
+## Domaines d'intérêt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OCR et extraction de données
+- Automatisation administrative
+- Python, Pandas, OpenCV
+- Structuration de données en CSV / Excel
+- Validation humaine dans les workflows semi-automatisés
+
+## Projet principal
+
+### Automatisation de saisie & extraction de données avec IA
+
+Prototype OCR permettant d'extraire les données d'un bon de commande fictif, de les structurer dans un tableau, de corriger certaines incohérences simples et d'exporter le résultat en CSV.
+
+Technologies utilisées :
+
+- Python
+- Tesseract OCR
+- OpenCV
+- Pandas
+- Google Colab
+
+## Contact
+
+- Localisation : Paris / Remote
+- Portfolio : [lien Notion à ajouter]
