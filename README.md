@@ -27,4 +27,3 @@ Technologies utilisées :
 ## Contact
 
 - Localisation : Paris / Remote
-- Portfolio : [lien Notion à ajouter]
